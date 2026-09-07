@@ -1,0 +1,2 @@
+/* Compatibility entrypoint: the editable stylesheet lives in styles.css. */
+@import url('styles.css');
